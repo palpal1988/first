@@ -1,0 +1,40 @@
+.container {
+    padding-right: 40px;
+    padding-left: 40px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.container-fluid {
+    padding-right: 40px;
+    padding-left: 40px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.row {
+    margin-right: -30px;
+    margin-left: -30px;
+}
+
+label{
+    margin: 0 auto;
+	margin-top: 20px;
+    display: block;
+    max-width: 400px;
+}
+
+input{
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+h2{
+	margin:30px auto;
+    width: 400px;
+    display: block;
+}
+
+#loginBtn{
+	width: 200px;
+}
